@@ -11,7 +11,7 @@
 	<h2>Hola Mundo GIT</h2>
 	
 	<p> 
-	Practica de Git 
+	Practica de Git. estas son las modificaciones de Julia en archivo compartido
 	</p>
 	
 	<script src="script/script.js"></script>
