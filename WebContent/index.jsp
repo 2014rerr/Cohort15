@@ -10,6 +10,10 @@
 <body>
 	<h2>Hola Mundo GIT</h2>
 	
+	<p> 
+	Practica de Git 
+	</p>
+	
 	<script src="script/script.js"></script>
 
 </body>
