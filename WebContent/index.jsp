@@ -9,6 +9,8 @@
 </head>
 <body>
 	<h2>Hola Mundo GIT</h2>
+	
+	<script src="script/script.js"></script>
 
 </body>
 </html>
